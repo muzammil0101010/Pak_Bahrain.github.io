@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="profile" href="//gmpg.org/xfn/11">
+	<title>Page not found &#8211; Weldo</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Weldo &raquo; Feed" href="http://webdesign-finder.com/weldo/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Weldo &raquo; Comments Feed" href="http://webdesign-finder.com/weldo/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/webdesign-finder.com\/weldo\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.12"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='user-registration-general-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=1.8.2.1' media='all' />
+<link rel='stylesheet' id='user-registration-smallscreen-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/user-registration/assets/css/user-registration-smallscreen.css?ver=1.8.2.1' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='user-registration-my-account-layout-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/user-registration/assets/css/my-account-layout.css?ver=1.8.2.1' media='all' />
+<link rel='stylesheet' id='sweetalert2-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/user-registration/assets/css/sweetalert2/sweetalert2.min.css?ver=8.17.1' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://webdesign-finder.com/weldo/wp-includes/css/dashicons.min.css?ver=5.3.12' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://webdesign-finder.com/weldo/wp-includes/css/dist/block-library/style.min.css?ver=5.3.12' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://webdesign-finder.com/weldo/wp-includes/css/dist/block-library/theme.min.css?ver=5.3.12' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.14' media='all' />
+<link rel='stylesheet' id='booked-icons-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/booked/assets/css/icons.css?ver=2.0.6' media='all' />
+<link rel='stylesheet' id='booked-tooltipster-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster.css?ver=3.3.0' media='all' />
+<link rel='stylesheet' id='booked-tooltipster-theme-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light.css?ver=3.3.0' media='all' />
+<link rel='stylesheet' id='booked-animations-css'  href='http://webdesign-finder.com/weldo/wp-content/plugins/booked/assets/css/animations.css?ver=2.0.6' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/css/font-awesome.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='flaticon-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/css/flaticon.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='icomoon-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/css/icomoon.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='weldo-google-font-css'  href='//fonts.googleapis.com/css?family=Anton%3A400%7CRoboto%3A100%2C300%2C400%2C500%2C700%2C900&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' media='all' />
+<link rel='stylesheet' id='weldo-woo-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/css/shop.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='weldo-booked-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/css/booked.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/css/bootstrap.min.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='weldo-animations-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/css/animations.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='weldo-main-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/css/main.css?ver=1.0.0' media='all' />
+<style id='weldo-main-inline-css'>
+/* Customizer options */  span.taxonomy-name-title { display: none; }
+</style>
+<link rel='stylesheet' id='weldo-style-css'  href='http://webdesign-finder.com/weldo/wp-content/themes/weldo/style.css?ver=1.0.0' media='all' />
+<script src='http://webdesign-finder.com/weldo/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script src='http://webdesign-finder.com/weldo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/modernizr-custom.js?ver=3.6.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://webdesign-finder.com/weldo/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://webdesign-finder.com/weldo/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.12" />
+<meta name="generator" content="WooCommerce 4.0.4" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="http://webdesign-finder.com/weldo/wp-content/uploads/2020/03/cropped-favicon-1-100x100.png" sizes="32x32" />
+<link rel="icon" href="http://webdesign-finder.com/weldo/wp-content/uploads/2020/03/cropped-favicon-1-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://webdesign-finder.com/weldo/wp-content/uploads/2020/03/cropped-favicon-1-300x300.png" />
+<meta name="msapplication-TileImage" content="http://webdesign-finder.com/weldo/wp-content/uploads/2020/03/cropped-favicon-1-300x300.png" />
+</head>
+<body class="error404 theme-weldo user-registration-page woocommerce-no-js masthead-fixed full-width">
+	<!-- page preloader -->
+	<div class="preloader">
+		<div class="preloader_image " style="background-image: url(//webdesign-finder.com/weldo/wp-content/uploads/2020/03/preloader.gif)"></div>
+	</div>
+
+<!-- search modal -->
+<div class="modal fade modal-search" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<button type="button" class="close" data-dismiss="modal">
+				<span aria-hidden="true">×</span>
+				<i class="ico ico-close"></i>
+			</button>
+			<div class="widget widget_search">
+				
+<form role="search" method="get" class="search-form" action="http://webdesign-finder.com/weldo/">
+	<div class="form-group">
+		<label>
+            <span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field form-control"
+			       placeholder="Search"
+			       value="" name="s"
+			       title="Search for:"/>
+		</label>
+	</div>
+	<button type="submit" class="search-submit">
+		<span class="screen-reader-text">Search</span>
+	</button>
+</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade login-form" id="login-form">
+	<div class="modal-dialog modal-dialog-centered text-center text-md-left">
+		<div class="modal-content ls">
+			<button type="button" class="close" data-dismiss="modal">
+				<i class="ico ico-close"></i>
+			</button>
+			<div class="modal-body">
+				<h4 class="modal-title text-center mb-25">Sign In</h4>
+				<div id="user-registration" class="user-registration">
+
+
+<div class="ur-frontend-form login " id="ur-frontend-form">
+
+	<form class="user-registration-form user-registration-form-login login" method="post">
+
+		<div class="ur-form-row">
+			<div class="ur-form-grid">
+				
+				<p class="user-registration-form-row user-registration-form-row--wide form-row-wide">
+					<label for="username">Name</label>
+					<input type="text" class="form-control user-registration-Input user-registration-Input--text input-text" name="username" id="username" value="" />
+				</p>
+				<p class="user-registration-form-row user-registration-form-row--wide form-row-wide">
+					<label for="password">Password</label>
+					<span class="password-input-group">
+						<input class="form-control user-registration-Input user-registration-Input--text input-text" type="password" name="password" id="password" />
+												</span>
+				</p>
+
+				
+            <div class="form-row rememberme-lostpassword-row">
+						 						                        <p class="user-registration-LostPassword lost_password">
+                           <a href="http://webdesign-finder.com/weldo/my-account/lost-password/">Forgot Password?</a>
+                       </p>
+							                 </div>
+								<div class="form-row submit-row">
+					<input type="hidden" id="user-registration-login-nonce" name="user-registration-login-nonce" value="3c49c3aae5" /><input type="hidden" name="_wp_http_referer" value="/weldo/wp-content/themes/weldo/img/parallax/map-dark.jpg" />					<input type="submit" class="user-registration-Button button btn btn-small btn-wide btn-maincolor mb-1" name="login" value="Log in" />
+					<input type="hidden" name="redirect" value="" />
+					
+									</div>
+			</div>
+		</div>
+	</form>
+
+</div>
+
+</div>			</div>
+						<div class="modal-image item-media cover-image d-none d-md-block">
+				<img src="//webdesign-finder.com/weldo/wp-content/uploads/2020/03/register-img.jpg" alt="">
+			</div>
+					</div>
+	</div>
+</div>
+
+<!-- wrappers for visual page editor and boxed version of template -->
+<div id="canvas" class=""
+	>
+	<div id="box_wrapper" class="">
+		<!-- template sections -->
+				<div class="header_absolute cover-background s-overlay ds ms"
+					><!-- .header_absolute open -->
+			<section class="page_topline with-cart topline-overflow-visible s-pb-10 s-pt-15 s-pb-xl-0 s-pt-xl-0  ds ms s-borderbottom  s-parallax s-overlay"
+		style="background-image:url(http://webdesign-finder.com/weldo/wp-content/uploads/2020/02/title-bg.jpg);">
+	<div class="container-fluid">
+		<div class="row align-items-center">
+			<div class="col-6 text-md-left">
+				<ul class="top-includes border-divided">
+											<li class="icon-inline d-none d-md-inline-block">
+							<div class="meta-address">
+								<i class="color-main fs-14 ico ico-map-marker mr-2"></i>
+								<span>2231 Johnstown Road Bensenville, IL 60106 </span>
+							</div>
+						</li>
+											<li class="icon-inline meta-email">
+							<a href="mailto:info@weldo.com">
+								<i class="color-main fs-14 ico ico-envelope-alt mr-2"></i>
+								<span>info@weldo.com</span>
+							</a>
+						</li>
+									</ul>
+			</div>
+			<div class="col-6">
+				<ul class="top-includes border-divided text-right">
+											<li class="icon-inline d-block d-lg-inline-block ">
+							<div class="meta-phone">
+								<a href="callto:+1-234-056-78-90">
+									<i class="ico ico-phone color-main fs-14 pr-2"></i>
+									<span>+1 234 056 78 90</span>
+								</a>
+							</div>
+						</li>
+											<li class="d-none d-md-inline-block">
+															<a href="#" class="search_modal_button">
+									<i class="fa fa-search fw-900"></i>
+								</a>
+																<div class="dropdown dropdown-card">
+										<a class="dropdown-toggle dropdown-shopping-cart" href="#" role="button" id="dropdown-cart" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+											<span class="badge bg-maincolor cart-count"></span>											<i class="ico ico-shopping-bag"></i>
+										</a>
+										<div class="dropdown-menu dropdown-menu-right ls" aria-labelledby="dropdown-cart">
+											<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>										</div>
+									</div> <!-- eof woo cart  -->
+																<a data-toggle="modal" href="#login-form">
+									<i class="fa fa-user"></i>
+								</a>
+													</li>
+										<li class="d-none d-md-inline-block">
+											<a href="https://facebook.com/"
+				            class="fa fa-facebook ">
+						</a>
+											<a href="https://twitter.com/"
+				            class="fa fa-twitter ">
+						</a>
+											<a href="https://www.linkedin.com/"
+				            class="fa fa-linkedin ">
+						</a>
+											<a href="https://instagram.com/"
+				            class="fa fa-instagram ">
+						</a>
+											<a href="https://youtube.com/"
+				            class="fa fa-youtube-play ">
+						</a>
+										</li>
+				</ul>
+
+			</div>
+		</div>
+	</div>
+</section><!-- .page_topline -->
+
+<header class="page_header justify-nav-end s-py-5  ds ms    s-parallax"
+		>
+    <div class="container-fluid">
+		<div class="row align-items-center">
+			<div class="col-xl-3 col-lg-4 col-10">
+				<a href="http://webdesign-finder.com/weldo/"
+   rel="home" class="logo">
+			<img src="//webdesign-finder.com/weldo/wp-content/uploads/2020/02/logo.png" alt="Weldo">
+		<div class="d-flex flex-column">
+					<h4 class="logo-text color-main">
+				Weldo			</h4>
+			</div>
+
+</a>			</div>
+			<div class="col-xl-9 col-lg-8 col-1">
+				<div class="nav-wrap">
+					<!-- main nav start -->
+					<nav class="top-nav">
+					<ul id="menu-main-manu" class="sf-menu nav"><li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-227"><a href="http://webdesign-finder.com/weldo/" >Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389"><a href="http://webdesign-finder.com/weldo/home-2/" >Home 2</a></li>
+</ul>
+</li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="http://webdesign-finder.com/weldo/services/" >Services</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398"><a href="http://webdesign-finder.com/weldo/about-us/" >About</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-235"><a href="http://webdesign-finder.com/weldo/about/" >Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="http://webdesign-finder.com/weldo/about-founder/" >About Founder</a></li>
+	<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="http://webdesign-finder.com/weldo/team/" >Team</a></li>
+	<li id="menu-item-3015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3015"><a href="http://webdesign-finder.com/weldo/request-a-quote/" >Request a Quote</a></li>
+	<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="http://webdesign-finder.com/weldo/contacts/" >Contacts</a></li>
+	<li id="menu-item-558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558"><a href="http://webdesign-finder.com/weldo/appointment/" >Appointment</a></li>
+	<li id="menu-item-878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-878"><a href="http://webdesign-finder.com/weldo/shop/" >Shop</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3205" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-3205"><a href="http://webdesign-finder.com/weldo/product/temco-wc0180-50-25-blk-25-red-2-gauge-awg-welding/" >Single Product</a></li>
+		<li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="http://webdesign-finder.com/weldo/checkout/" >Checkout</a></li>
+		<li id="menu-item-877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-877"><a href="http://webdesign-finder.com/weldo/cart/" >Cart</a></li>
+	</ul>
+</li>
+	<li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397"><a href="http://webdesign-finder.com/weldo/faq/" >FAQ</a></li>
+	<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://webdesign-finder.com/weldo/pricing/" >Pricing</a></li>
+	<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://webdesign-finder.com/weldo/typography/" >Typography</a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://webdesign-finder.com/weldo/elements/" >Elements</a></li>
+	<li id="menu-item-3212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3212"><a href="http://webdesign-finder.com/weldo/terms-of-use/" >Terms of Use</a></li>
+	<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="http://webdesign-finder.com/weldo/404" >404</a></li>
+</ul>
+</li>
+<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="http://webdesign-finder.com/weldo/portfolio/" >Portfolio</a></li>
+<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-399"><a href="http://webdesign-finder.com/weldo/blog/" >News</a></li>
+</ul>					</nav>
+											<span class="toggle_menu toggle_menu_side header_widget header-slide d-none d-lg-block"><span></span></span>
+									</div>
+			</div>
+		</div>
+	</div>
+	<!-- header toggler -->
+	<span class="toggle_menu"><span></span></span>
+</header>
+
+
+	<div class="page_header_side header_slide header_side_right ls ms d-none d-lg-block">
+		<div class="scrollbar-macosx">
+			<div class="widget-odd widget-first widget-1 widget-theme-wrapper widget_no_background"><div id="mwt_author_bio-2" class="widget widget_author_bio">	<div class="item-media mb-20">
+		<img src="//webdesign-finder.com/weldo/wp-content/uploads/2020/03/author01.jpg"
+			 alt="Author">
+	</div>
+	<div class="author-bio mt-10">
+		<div class="author-info font-italic">
+		Sem justo facilisi, pulvinar feugiat sed cursus donec 	</div>
+	</div>
+
+</div></div><div class="widget-even widget-2 widget-theme-wrapper widget_no_background"><div id="mwt_recent-3" class="widget widget_popular_entries"><h3 class="widget-title">Popular Posts</h3>	<ul id="recent_posts_6298ac786e616" class="list-unstyled">
+					<li class="media post-297 post type-post status-publish format-standard has-post-thumbnail hentry category-pipe-welding category-welding tag-magnesium-welding tag-mobile-welding">
+									<a href="http://webdesign-finder.com/weldo/we-specialize-in-one-of-a-kind-products-and-reworking-pieces-that-are-not-accomplishing-2/" class="media-left">
+						<img width="100" height="100" src="http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_653166481-100x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_653166481-100x100.jpg 100w, http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_653166481-1000x1000.jpg 1000w, http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_653166481-700x700.jpg 700w" sizes="(max-width: 100px) 100vw, 100px" />					</a>
+								<div class="media-body">
+					<p class="widget-post-title">
+						<a href="http://webdesign-finder.com/weldo/we-specialize-in-one-of-a-kind-products-and-reworking-pieces-that-are-not-accomplishing-2/">We specialize in one of a kind</a>
+					</p>
+					<div class="item-meta">
+						                            <span class="widget-post-date">
+                                <i class="fa fa-calendar"></i>
+                                <a href="http://webdesign-finder.com/weldo/2019/05/31/"><time class="published" datetime="2019-05-31T12:44:18+00:00">3 years ago</time></a>                            </span>
+												</div>
+				</div>
+			</li>
+					<li class="media post-296 post type-post status-publish format-video has-post-thumbnail hentry category-frame-welding category-mobile-welding category-welding tag-structual-steel-welding post_format-post-format-video">
+									<a href="http://webdesign-finder.com/weldo/exothermic-slice-cutting-torch-sets-industrial-slice-pack-fire-rescue-cutting-system-pecu/" class="media-left">
+						<img width="100" height="100" src="http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-100x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-100x100.jpg 100w, http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-1000x1000.jpg 1000w, http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-700x700.jpg 700w" sizes="(max-width: 100px) 100vw, 100px" />					</a>
+								<div class="media-body">
+					<p class="widget-post-title">
+						<a href="http://webdesign-finder.com/weldo/exothermic-slice-cutting-torch-sets-industrial-slice-pack-fire-rescue-cutting-system-pecu/">Exothermic Slice Cutting Torch</a>
+					</p>
+					<div class="item-meta">
+						                            <span class="widget-post-date">
+                                <i class="fa fa-calendar"></i>
+                                <a href="http://webdesign-finder.com/weldo/2019/05/31/"><time class="published" datetime="2019-05-31T12:44:17+00:00">3 years ago</time></a>                            </span>
+												</div>
+				</div>
+			</li>
+					<li class="media post-295 post type-post status-publish format-gallery has-post-thumbnail hentry category-titanium-welding category-welding tag-pipe-welding post_format-post-format-gallery">
+									<a href="http://webdesign-finder.com/weldo/underwater-welding-torch-electrode-holder-welding-electrodes-single-throw-knife-switch/" class="media-left">
+						<img width="100" height="100" src="http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_218715772-100x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_218715772-100x100.jpg 100w, http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_218715772-1000x1000.jpg 1000w, http://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_218715772-700x700.jpg 700w" sizes="(max-width: 100px) 100vw, 100px" />					</a>
+								<div class="media-body">
+					<p class="widget-post-title">
+						<a href="http://webdesign-finder.com/weldo/underwater-welding-torch-electrode-holder-welding-electrodes-single-throw-knife-switch/">Underwater Welding Torch/Elect</a>
+					</p>
+					<div class="item-meta">
+						                            <span class="widget-post-date">
+                                <i class="fa fa-calendar"></i>
+                                <a href="http://webdesign-finder.com/weldo/2019/05/31/"><time class="published" datetime="2019-05-31T12:44:15+00:00">3 years ago</time></a>                            </span>
+												</div>
+				</div>
+			</li>
+					</ul>
+</div></div><div class="widget-odd widget-last widget-3 widget-theme-wrapper widget_no_background"><div id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Links:</h3><div class="menu-header-widget-menu-container"><ul id="menu-header-widget-menu" class="menu"><li id="menu-item-2693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2693"><a href="http://webdesign-finder.com/weldo/services/" >Services</a></li>
+<li id="menu-item-2694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2694"><a href="http://webdesign-finder.com/weldo/faq/" >FAQ</a></li>
+<li id="menu-item-2695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2695"><a href="http://webdesign-finder.com/weldo/about-us/" >About Us</a></li>
+</ul></div></div></div>		</div>
+	</div>
+
+</div><section class="page_404  ds s-pt-lg-95 s-pb-lg-100 s-pt-55 s-pb-60        s-pt-xl-150 s-pb-xl-145 s-overlay"
+		>
+	<div class="container">
+		<div class="row">
+	<div id="content" class="col-12 column-main text-center">
+		<div class="page-header">
+							<p  class="error_text">
+					error				</p>
+						<p class="color-main">404</p>
+		</div>
+		<div class="page-content">
+							<p class="first-line-text fs-20 fw-500">
+					Sorry, the page you were looking for doesn’t exist! 				</p>
+							<p class="second-line-text mb-0">
+					Dont worry, just have coffee and come back.				</p>
+							<div class="mb-35">
+					<img src="//webdesign-finder.com/weldo/wp-content/uploads/2020/03/404-img.png" alt="404 image">
+				</div>
+							<a href="http://webdesign-finder.com/weldo" class="btn btn-big btn-wide btn-maincolor">
+					Go Home				</a>
+					</div>
+	</div><!--eof #content -->
+
+				</div><!-- eof .row-->
+			</div><!-- eof .container -->
+		</section><!-- eof .page_content -->
+	<section class="page_copyright  ls s-pt-20 s-pb-20              "
+		>
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-12 text-center">
+				&copy; Copyright Weldo Metal Works			</div>
+		</div>
+	</div>
+</section><!-- .page_copyright -->
+	</div><!-- eof #box_wrapper -->
+</div><!-- eof #canvas -->
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script src='http://webdesign-finder.com/weldo/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script src='http://webdesign-finder.com/weldo/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/booked/assets/js/spin.min.js?ver=2.0.1'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/booked/assets/js/spin.jquery.js?ver=2.0.1'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/booked/assets/js/tooltipster/js/jquery.tooltipster.min.js?ver=3.3.0'></script>
+<script>
+var booked_js_vars = {"ajax_url":"http:\/\/webdesign-finder.com\/weldo\/wp-admin\/admin-ajax.php","profilePage":"","publicAppointments":"","i18n_confirm_appt_delete":"Are you sure you want to cancel this appointment?","i18n_please_wait":"Please wait ...","i18n_wrong_username_pass":"Wrong username\/password combination.","i18n_fill_out_required_fields":"Please fill out all required fields.","i18n_guest_appt_required_fields":"Please enter your name to book an appointment.","i18n_appt_required_fields":"Please enter your name, your email address and choose a password to book an appointment.","i18n_appt_required_fields_guest":"Please fill in all \"Information\" fields.","i18n_password_reset":"Please check your email for instructions on resetting your password.","i18n_password_reset_error":"That username or email is not recognized."};
+</script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/booked/assets/js/functions.js?ver=2.0.6'></script>
+<script>
+var MyAjax = {"ajaxurl":"http:\/\/webdesign-finder.com\/weldo\/wp-admin\/admin-ajax.php","security":"205f32f311"};
+</script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/mwt-addons/mods/static/js/mod-post-likes.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script>
+var wc_add_to_cart_params = {"ajax_url":"\/weldo\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/weldo\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/webdesign-finder.com\/weldo\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.0.4'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script>
+var woocommerce_params = {"ajax_url":"\/weldo\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/weldo\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.0.4'></script>
+<script>
+var wc_cart_fragments_params = {"ajax_url":"\/weldo\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/weldo\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_0a5af028315e493f95edf1c1f0b2007a","fragment_name":"wc_fragments_0a5af028315e493f95edf1c1f0b2007a","request_timeout":"5000"};
+</script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.0.4'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/bootstrap.bundle.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/affix.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.appear.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.easing.1.3.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.hoverIntent.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/superfish.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/bootstrap-progressbar.min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.countdown.min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.countTo.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.easypiechart.min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.scrollbar.min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.localScroll.min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.scrollTo.min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.ui.totop.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.parallax-1.1.3.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/isotope.pkgd.min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/jquery.flexslider-min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/vendor/owl.carousel.min.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/themes/weldo/js/main.js?ver=1.0.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-includes/js/wp-embed.min.js?ver=5.3.12'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/user-registration/assets/js/jquery-tiptip/jquery.tipTip.min.js?ver=1.3.0'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/user-registration/assets/js/frontend/jquery.validate.min.js?ver=1.15.1'></script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/user-registration/assets/js/inputmask/jquery.inputmask.bundle.min.js?ver=4.0.0-beta.58'></script>
+<script>
+var user_registration_params = {"ajax_url":"http:\/\/webdesign-finder.com\/weldo\/wp-admin\/admin-ajax.php","user_registration_form_data_save":"f5522d1aac","form_required_fields":["user_email","user_pass"],"login_option":"default","message_required_fields":"This field is required.","message_email_fields":"Please enter a valid email address.","message_url_fields":"Please enter a valid URL.","message_number_fields":"Please enter a valid number.","message_confirm_password_fields":"Password and confirm password not matched.","message_validate_phone_number":"Please enter a valid phone number.","message_confirm_email_fields":"Email and confirm email not matched.","ursL10n":{"user_successfully_saved":"User successfully registered.","user_under_approval":"User registered. Wait until admin approves your registration.","user_email_pending":"User registered. Verify your email by clicking on the link sent to your email.","captcha_error":"Captcha code error, please try again.","hide_password_title":"Hide Password","show_password_title":"Show Password","password_strength_error":"Password strength is not strong enough"}};
+</script>
+<script src='http://webdesign-finder.com/weldo/wp-content/plugins/user-registration/assets/js/frontend/user-registration.min.js?ver=1.8.2.1'></script>
+</body>
+</html>
